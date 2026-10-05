@@ -2,6 +2,4 @@
 
 Launch the prototype on this computer:
 
-[Open Grammarly in Word](file:///C:/Users/mcclu/AiPitch/index.html)
-
-af18154
+[https://127.0.0.1:8754/](https://127.0.0.1:8754/)
